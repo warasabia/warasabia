@@ -1,7 +1,7 @@
 👋 Hi, I’m @warasabia!
 👀 I’m passionate about programming languages and artificial intelligence.
 🌱 I’m currently expanding my knowledge in new frameworks.
-💼 I’m looking to collaborate with the University of Toronto on a system for soccer programs in my city's organizations.
+💼 I’m looking to collaborate with the University of Toronto on a project for identifying genetic markers in fish, and I’m also developing a system for soccer programs in my city's organizations.
 📫 You can reach me at: denissesanjuan21@gmail.com.
 😄 Pronouns: (Add your pronouns here).
 ⚡ Fun fact: (Add an interesting or fun fact about yourself here).
